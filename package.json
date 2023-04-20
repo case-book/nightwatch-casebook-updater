@@ -1,0 +1,28 @@
+{
+  "name": "nightwatch-casebook-updater",
+  "version": "1.0.0",
+  "description": "NIGHTWATCH UPDATER FOR CASEBOOL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: NO TEST SPECIFIED\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/case-book/nightwatch-casebook-updater.git"
+  },
+  "keywords": [
+    "nightwatch",
+    "CASEBOOK",
+    "automated",
+    "testing"
+  ],
+  "author": "MINDPLATES",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/case-book/nightwatch-casebook-updater/issues"
+  },
+  "homepage": "https://github.com/case-book/nightwatch-casebook-updater#readme",
+  "dependencies": {
+    "supertest": "^6.1.6"
+  }
+}
